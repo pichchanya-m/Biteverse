@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>price</key>
+	<array>
+		<string>เลือกช่วงราคา</string>
+		<string>all</string>
+		<string>&lt;50</string>
+		<string>50-70</string>
+		<string>70-100</string>
+		<string>&gt;100</string>
+	</array>
+	<key>cate</key>
+	<array>
+		<string>เลือกประเภท</string>
+		<string>all</string>
+		<string>อาหารจานเดียว</string>
+		<string>เครื่องดื่ม</string>
+		<string>ฟาสฟู้ด</string>
+		<string>ของทานเล่น</string>
+		<string>ของหวาน</string>
+	</array>
+</dict>
+</plist>

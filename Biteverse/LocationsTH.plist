@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>โรงอาหาร1</key>
+    <dict>
+        <key>Latitude</key>
+        <real>13.74389</real>
+        <key>Longitude</key>
+        <real>100.56611</real>
+        <key>Subtitle</key>
+        <string>Canteen 1</string>
+    </dict>
+    <key>โรงอาหาร2</key>
+    <dict>
+        <key>Latitude</key>
+        <real>13.7444</real>
+        <key>Longitude</key>
+        <real>100.56623</real>
+        <key>Subtitle</key>
+        <string>Canteen 2</string>
+    </dict>
+    <key>เบเกอรี่ มศว</key>
+    <dict>
+        <key>Latitude</key>
+        <real>13.74613</real>
+        <key>Longitude</key>
+        <real>100.56503</real>
+        <key>Subtitle</key>
+        <string>Bake Room</string>
+    </dict>
+    <key>เซเว่น ตึกไข่ดาว</key>
+    <dict>
+        <key>Latitude</key>
+        <real>13.74608</real>
+        <key>Longitude</key>
+        <real>100.56483</real>
+        <key>Subtitle</key>
+        <string>7-11(Union Ed. building)</string>
+    </dict>
+    <key>กูกู ชิคเก้น</key>
+    <dict>
+        <key>Latitude</key>
+        <real>13.74616</real>
+        <key>Longitude</key>
+        <real>100.56286</real>
+        <key>Subtitle</key>
+        <string>Gu Gu Chicken</string>
+    </dict>
+    <key>อีท แอม อาร์</key>
+    <dict>
+        <key>Latitude</key>
+        <real>13.74713</real>
+        <key>Longitude</key>
+        <real>100.56266</real>
+        <key>Subtitle</key>
+        <string>Eat Am Are</string>
+    </dict>
+    <key>ตลาดรวมทรัพย์</key>
+    <dict>
+        <key>Latitude</key>
+        <real>13.74471</real>
+        <key>Longitude</key>
+        <real>100.56188</real>
+        <key>Subtitle</key>
+        <string>Ruam Sab Market</string>
+    </dict>
+    <key>เตี๋ยวรู</key>
+    <dict>
+        <key>Latitude</key>
+        <real>13.74713</real>
+        <key>Longitude</key>
+        <real>100.56499</real>
+        <key>Subtitle</key>
+        <string>Ru Noodles</string>
+    </dict>
+    <key>จัดจ้าน (ตามสั่ง)</key>
+    <dict>
+        <key>Latitude</key>
+        <real>13.74765</real>
+        <key>Longitude</key>
+        <real>100.56616</real>
+        <key>Subtitle</key>
+        <string>Jad Jan</string>
+    </dict>
+    <key>ร่มไทร ก๋วยจั๋บน้ำข้น</key>
+    <dict>
+        <key>Latitude</key>
+        <real>13.74782</real>
+        <key>Longitude</key>
+        <real>100.56615</real>
+        <key>Subtitle</key>
+        <string>Rom Sai(KuayJub)</string>
+    </dict>
+    <key>ข้าวไก่ทอด</key>
+    <dict>
+        <key>Latitude</key>
+        <real>13.74273</real>
+        <key>Longitude</key>
+        <real>100.56503</real>
+        <key>Subtitle</key>
+        <string>Kai Tod</string>
+    </dict>
+    <key>ข้าวปลาไข่</key>
+    <dict>
+        <key>Latitude</key>
+        <real>13.74591</real>
+        <key>Longitude</key>
+        <real>100.56381</real>
+        <key>Subtitle</key>
+        <string>Pla Khai</string>
+    </dict>
+    <key>เฟรดดี้ ข้าวแกงกะหรี่</key>
+    <dict>
+        <key>Latitude</key>
+        <real>13.74598</real>
+        <key>Longitude</key>
+        <real>100.56289</real>
+        <key>Subtitle</key>
+        <string>Freddie RiceCurry</string>
+    </dict>
+    <key>เซเว่น(โรงอาหาร)</key>
+    <dict>
+        <key>Latitude</key>
+        <real>13.74377</real>
+        <key>Longitude</key>
+        <real>100.56595</real>
+        <key>Subtitle</key>
+        <string>7-11(Canteen)</string>
+    </dict>
+    <key>เซเว่น(ข้างideo)</key>
+    <dict>
+        <key>Latitude</key>
+        <real>13.74845</real>
+        <key>Longitude</key>
+        <real>100.56604</real>
+        <key>Subtitle</key>
+        <string>7-11(Nearby Ideo Mobi)</string>
+    </dict>
+    <key>เขียง อาหารตามสั่ง</key>
+    <dict>
+        <key>Latitude</key>
+        <real>13.74844</real>
+        <key>Longitude</key>
+        <real>100.56622</real>
+        <key>Subtitle</key>
+        <string>Khiang TamSang</string>
+    </dict>
+</dict>
+</plist>
+

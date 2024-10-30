@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Kai Tod</key>
+	<array>
+		<string>50-70</string>
+		<string>A la Carte</string>
+		<string>g2</string>
+		<string>10:00 - 18:00</string>
+		<string>100.56503</string>
+		<string>13.74273</string>
+	</array>
+	<key>Eat Am Are</key>
+	<array>
+		<string>70-100</string>
+		<string>A la Carte</string>
+		<string>g5</string>
+		<string>9:00 - 21:00</string>
+		<string>100.56266</string>
+		<string>13.74713</string>
+	</array>
+	<key>Ru noodles</key>
+	<array>
+		<string>50-100</string>
+		<string>a la carte</string>
+		<string>uni</string>
+		<string>08:00 - 16:00</string>
+		<string>100.56499</string>
+		<string>13.74713</string>
+	</array>
+	<key>Canteen 1</key>
+	<array>
+		<string>50-70</string>
+		<string>a la carte </string>
+		<string>uni</string>
+		<string>07:00 - 15:00</string>
+		<string>100.56611</string>
+		<string>13.74389</string>
+	</array>
+	<key>Canteen 2</key>
+	<array>
+		<string>50-70</string>
+		<string>a la carte </string>
+		<string>uni</string>
+		<string>07:00 - 15:00</string>
+		<string>100.56623</string>
+		<string>13.7444</string>
+	</array>
+	<key>Jad Jan</key>
+	<array>
+		<string>50-100</string>
+		<string>a la carte </string>
+		<string>ss</string>
+		<string>08:00 - 20:00</string>
+		<string>100.56616</string>
+		<string>13.74765</string>
+	</array>
+	<key>Rom Sai (Kuay Jab)</key>
+	<array>
+		<string>50-100</string>
+		<string>a la carte </string>
+		<string>ss</string>
+		<string>07:00 - 15:00</string>
+		<string>100.56615</string>
+		<string>13.74782</string>
+	</array>
+	<key>Gu Gu Chicken</key>
+	<array>
+		<string>100+</string>
+		<string>a la carte </string>
+		<string>g5</string>
+		<string>09:00 - 22:00</string>
+		<string>100.56286</string>
+		<string>13.74616</string>
+	</array>
+	<key>Ruam Sab Marketplace</key>
+	<array>
+		<string>50-70</string>
+		<string>a la carte/fast food/beverage </string>
+		<string>g5</string>
+		<string>07:00 - 21:00</string>
+		<string>100.56188</string>
+		<string>13.74471</string>
+	</array>
+	<key>7-11(ตึกไข่ดาว)</key>
+	<array>
+		<string>&lt;50</string>
+		<string>snacks</string>
+		<string>uni</string>
+		<string>24hrs</string>
+		<string>100.56483</string>
+		<string>13.74608</string>
+	</array>
+	<key>7-11(ข้างโรงอาหาร)</key>
+	<array>
+		<string>&lt;50</string>
+		<string>snacks</string>
+		<string>uni</string>
+		<string>24hrs</string>
+		<string>100.56595</string>
+		<string>13.74377</string>
+	</array>
+	<key>7-11(ข้าง IDEO)</key>
+	<array>
+		<string>&lt;50</string>
+		<string>snacks</string>
+		<string>g2</string>
+		<string>24hrs</string>
+		<string>100.56604</string>
+		<string>13.74845</string>
+	</array>
+	<key>Bake Room</key>
+	<array>
+		<string>&lt;50</string>
+		<string>snacks/beverage</string>
+		<string>uni</string>
+		<string>7:00-18:00</string>
+		<string>100.56503</string>
+		<string>13.74613</string>
+	</array>
+	<key>Freddie RiceCurry</key>
+	<array>
+		<string>100+</string>
+		<string>a la carte</string>
+		<string>g5</string>
+		<string>10:00-20:00</string>
+		<string>100.56289</string>
+		<string>13.74598</string>
+	</array>
+	<key>Khiang TamSan</key>
+	<array>
+		<string>50-70</string>
+		<string>a la carte</string>
+		<string>g2</string>
+		<string>09:30-20:30</string>
+		<string>100.56622</string>
+		<string>13.748448</string>
+	</array>
+	<key>Pla Khai</key>
+	<array>
+		<string>&lt;50</string>
+		<string>a la carte</string>
+		<string>g5</string>
+		<string>10:00-21:00</string>
+		<string>100.56381</string>
+		<string>13.74591</string>
+	</array>
+	<key>Chao kuay</key>
+	<array>
+		<string>&lt;50</string>
+		<string>a la carte</string>
+		<string>g2</string>
+		<string>10:00-21:00</string>
+		<string>100.56488</string>
+		<string>13.74300</string>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Canteen 1</key>
+	<dict>
+		<key>Latitude</key>
+		<real>13.74389</real>
+		<key>Longitude</key>
+		<real>100.56611</real>
+		<key>Subtitle</key>
+		<string>โรงอาหาร1</string>
+	</dict>
+	<key>Canteen 2</key>
+	<dict>
+		<key>Latitude</key>
+		<real>13.7444</real>
+		<key>Longitude</key>
+		<real>100.56623</real>
+		<key>Subtitle</key>
+		<string>โรงอาหาร2</string>
+	</dict>
+	<key>Bake Room</key>
+	<dict>
+		<key>Latitude</key>
+		<real>13.74613</real>
+		<key>Longitude</key>
+		<real>100.56503</real>
+		<key>Subtitle</key>
+		<string>เบเกอรี่ มศว</string>
+	</dict>
+	<key>7-11(Union Ed. building)</key>
+	<dict>
+		<key>Latitude</key>
+		<real>13.74608</real>
+		<key>Longitude</key>
+		<real>100.56483</real>
+		<key>Subtitle</key>
+		<string>เซเว่น ตึกไข่ดาว</string>
+	</dict>
+	<key>Gu Gu Chicken</key>
+	<dict>
+		<key>Latitude</key>
+		<real>13.74616</real>
+		<key>Longitude</key>
+		<real>100.56286</real>
+		<key>Subtitle</key>
+		<string>กูกู ชิคเก้น</string>
+	</dict>
+	<key>Eat Am Are</key>
+	<dict>
+		<key>Latitude</key>
+		<real>13.74713</real>
+		<key>Longitude</key>
+		<real>100.56266</real>
+		<key>Subtitle</key>
+		<string>อีท แอม อาร์</string>
+	</dict>
+	<key>Ruam Sab Market</key>
+	<dict>
+		<key>Latitude</key>
+		<real>13.74471</real>
+		<key>Longitude</key>
+		<real>100.56188</real>
+		<key>Subtitle</key>
+		<string>ตลาดรวมทรัพย์</string>
+	</dict>
+	<key>Ru Noodles</key>
+	<dict>
+		<key>Latitude</key>
+		<real>13.74713</real>
+		<key>Longitude</key>
+		<real>100.56499</real>
+		<key>Subtitle</key>
+		<string>ก๋วยเตี๋ยวรู</string>
+	</dict>
+	<key>Jad Jan</key>
+	<dict>
+		<key>Latitude</key>
+		<real>13.74765</real>
+		<key>Longitude</key>
+		<real>100.56616</real>
+		<key>Subtitle</key>
+		<string>จัดจ้าน (ตามสั่ง)</string>
+	</dict>
+	<key>Rom Sai(KuayJub)</key>
+	<dict>
+		<key>Latitude</key>
+		<real>13.74782</real>
+		<key>Longitude</key>
+		<real>100.56615</real>
+		<key>Subtitle</key>
+		<string>ร่มไทร ก๋วยจั๋บน้ำข้น</string>
+	</dict>
+	<key>Kai Tod(Gate2)</key>
+	<dict>
+		<key>Latitude</key>
+		<real>13.74273</real>
+		<key>Longitude</key>
+		<real>100.56503</real>
+		<key>Subtitle</key>
+		<string>ข้าวไก่ทอดประตู2</string>
+	</dict>
+	<key>Pla Khai</key>
+	<dict>
+		<key>Latitude</key>
+		<real>13.74591</real>
+		<key>Longitude</key>
+		<real>100.56381</real>
+		<key>Subtitle</key>
+		<string>ข้าวปลาไข่</string>
+	</dict>
+	<key>Freddie RiceCurry</key>
+	<dict>
+		<key>Latitude</key>
+		<real>13.74598</real>
+		<key>Longitude</key>
+		<real>100.56289</real>
+		<key>Subtitle</key>
+		<string>ข้าวแกงกะหรี่ เฟรดดี้</string>
+	</dict>
+	<key>7-11(Canteen)</key>
+	<dict>
+		<key>Latitude</key>
+		<real>13.74377</real>
+		<key>Longitude</key>
+		<real>100.56595</real>
+		<key>Subtitle</key>
+		<string>เซเว่น(โรงอาหาร)</string>
+	</dict>
+	<key>7-11(Nearby Ideo Mobi)</key>
+	<dict>
+		<key>Latitude</key>
+		<real>13.74845</real>
+		<key>Longitude</key>
+		<real>100.56604</real>
+		<key>Subtitle</key>
+		<string>เซเว่น(ข้างideo)</string>
+	</dict>
+	<key>Khiang TamSang</key>
+	<dict>
+		<key>Latitude</key>
+		<real>13.74844</real>
+		<key>Longitude</key>
+		<real>100.56622</real>
+		<key>Subtitle</key>
+		<string>เขียง อาหารตามสั่ง</string>
+	</dict>
+</dict>
+</plist>
