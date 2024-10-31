@@ -23,6 +23,7 @@ A mobile application for finding food around Srinakharinwirot University tailore
    
 3. **Build and Run the Project on a Simulator or a Physical Device**:
    - **Running on Your Own Devices**:
+     
      - Connect your iPhone to your Mac using a USB cable.
      - Open Xcode and select your project.
      - Select your connected iPhone from the device list in the toolbar.
