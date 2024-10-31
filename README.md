@@ -3,7 +3,7 @@ A mobile application for finding food around Srinakharinwirot University tailore
 
 ## Features
 
-- **Personalized Food Discovery: Filter food options based on price range, cuisine type, and location around university areas.
+- Personalized Food Discovery: Filter food options based on price range, cuisine type, and location around university areas.
 - **Custom Map**: Browse food options pinned on a map specific to your locality.
 - **In-App Navigation**: Get walking directions directly within the app or link to Apple Maps or Google Maps for your preferred directions.
 - **Daily Notifications**: Receive daily notifications.
@@ -20,6 +20,7 @@ A mobile application for finding food around Srinakharinwirot University tailore
    git clone https://github.com/pichchanya-m/Biteverse.git
 
 2. Open the project in Xcode.
+   
 3. **Build and Run the Project on a Simulator or a Physical Device**:
    - **Running on Your Own Devices**:
      - Connect your iPhone to your Mac using a USB cable.
